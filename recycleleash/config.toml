@@ -1,0 +1,130 @@
+baseURL = "/"
+title = "recycleleash"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+paginate = "7"
+theme = "spectral"
+
+[params]
+fancyTitle = "recycleleash" # title for frontpage, may include image
+copyright = "recycleleash"
+description = 'leashes made from recycled materials'
+startbuttonText = "linktr.ee"
+startbuttonLink = "https://linktr.ee/recycleleash"
+body_is_markdown = true
+#custom_css = "foo.css"
+#images = ["path_to_social_image_for_link_previews.jpg"]
+
+[[params.menu.main]]
+url = '/'
+title = "home"
+
+[[params.menu.main]]
+url = 'https://linktr.ee/recycleleash'
+title = "linktr.ee"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    series = "series"
+
+[params.one]
+enable = true
+title = 'my story'
+body = '''
+Hey there and welcome to recylceleash! I started this adventure (business) during the pandemic as I wanted to find a way to reuse and recycle climbing rope that is no longer suitable for rock climbing. I have had several donations from friends and local rock climbing gyms. I hope to see you and your dog soon!! ♻️❤️
+'''
+
+#[[params.one.icon]]
+#icon = "fa-diamond"
+#style = "1"
+#label = "Lorem"
+
+#[[params.one.icon]]
+#icon = "fa-heart-o"
+#style = "1"
+#label = "Ipsum"
+
+#[[params.one.icon]]
+#icon = "fa-paper-plane-o"
+#style = "1"
+#label = "Dolor"
+
+[params.two]
+enable = true
+
+[[params.two.section]]
+img = "img/rope.jpg"
+title = 'recycled materials'
+body = 'Our leashes are made from recycled climbing rope, which are extremely strong and durable. We offer custom colours that are made-to-order! You get to choose the colours and style - get CREATIVE!'
+
+[[params.two.section]]
+img = "img/leash.jpg"
+title = 'hand-made'
+body = 'Each leash is 100% hand-made. If you have any questions, unsure about length or a specific colour - we can help! Please do not hesitate to contact us.'
+
+[[params.two.section]]
+img = "img/dog.jpg"
+title = 'show us your dog(s)'
+body = 'Nothing makes us happier then a good dog, especially when they are wearing one of our leashes! Send us your favourite photo for a chance to be featured on our social media.'
+
+[params.three]
+enable = true
+title = 'frequently asked questions - faq'
+body = '''
+'''
+
+[[params.three.feature]]
+icon = "fa-usd"
+title = "cost?"
+body = "leashes vary in price by size. our most common sizes are 4FT ($15) and 6FT ($20) - if you would like another length, please contact us!"
+
+[[params.three.feature]]
+icon = "fa-envelope-o"
+title = "how to contact us"
+body = "please send us an email at info@recycleleash.com or message on us on social media"
+
+[[params.three.feature]]
+icon = "fa-paw"
+title = "social media"
+body = "be sure to like and follow us on social media for the latest news and contests!"
+
+[params.cta]
+enable = false
+title = "Arcue ut vel commodo"
+body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+
+[[params.cta.link]]
+href = "#"
+text = "Activate"
+special = true
+
+[[params.cta.link]]
+href = "#"
+text = "more"
+special = false
+
+[params.contact]
+enable = false
+title = "Contact"
+body = "Leave us a message."
+phone = ""
+address = "Ottawa, Ontario CANADA"
+email = "info@recycleleash.com"
+subject = "New Submission!"
+plain = false
+
+[params.social]
+facebook = "recycleleash"
+instagram = "recycleleash"
+dribble = ""
+
+# language specific options
+
+[languages.en]
+weight = 0
+languageName = "English"
+
+[languages.de]
+weight = 10
+languageName = "Deutsch"
