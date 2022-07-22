@@ -70,7 +70,7 @@ body = 'Nothing makes us happier then a good dog, especially when they are weari
 
 [params.three]
 enable = true
-title = 'frequently asked questions - faq'
+title = 'frequently asked questions'
 body = '''
 '''
 
