@@ -77,17 +77,17 @@ body = '''
 [[params.three.feature]]
 icon = "fa-usd"
 title = "cost?"
-body = "leashes vary in price by size. our most common sizes are 4FT ($15) and 6FT ($20) - if you would like another length, please contact us!"
+body = "Leashes vary in price by size. Our most common sizes are 4FT ($15) and 6FT ($20) - if you would like another length, please contact us!"
 
 [[params.three.feature]]
 icon = "fa-envelope-o"
 title = "how to contact us"
-body = "please send us an email at info@recycleleash.com or message on us on social media"
+body = "Please send us an email at info@recycleleash.com or message on us on social media."
 
 [[params.three.feature]]
 icon = "fa-paw"
 title = "social media"
-body = "be sure to like and follow us on social media for the latest news and contests!"
+body = "Be sure to like and follow us on social media for the latest news and contests!"
 
 [params.cta]
 enable = false
