@@ -1,5 +1,2 @@
-# recycleleash // website
-
-this is my first website using hugo
-
-hugo website files are located within "recycleleash"
+# www.recycleleash.com
+This repo holds our website on Azure using a Static Web App.
