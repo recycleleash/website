@@ -109,7 +109,7 @@ text = "more"
 special = false
 
 [params.contact]
-enable = true
+enable = false
 title = "Contact"
 body = "Leave us a message."
 phone = ""
