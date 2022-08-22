@@ -68,6 +68,11 @@ title = 'hand-made'
 body = 'Each leash is 100% hand-made. If you have any questions, unsure about length or a specific colour - we can help! Please do not hesitate to contact us.'
 
 [[params.two.section]]
+img = "img/dog2.jpg"
+title = 'shop'
+body = 'Click [here](https://recycleleash.square.site/) to enter our shop!'
+
+[[params.two.section]]
 img = "img/dog.jpg"
 title = 'show us your dog(s)'
 body = 'Nothing makes us happier then a good dog, especially when they are wearing one of our leashes! Send us your favourite photo for a chance to be featured on our social media.'
