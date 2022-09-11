@@ -23,6 +23,10 @@ title = "home"
 url = 'https://linktr.ee/recycleleash'
 title = "linktr.ee"
 
+[[params.menu.main]]
+url = 'https://coyoterockgym.ca/'
+title = "coyote rock gym"
+
 [taxonomies]
     tag = "tags"
     category = "categories"
