@@ -27,6 +27,14 @@ title = "linktr.ee"
 url = 'https://coyoterockgym.ca/'
 title = "coyote rock gym"
 
+[[params.menu.main]]
+url = 'https://en.bloc981.com/'
+title = "bloc 9.81"
+
+[[params.menu.main]]
+url = 'http://altitudegym.ca/en/'
+title = "altitude climbing gym"
+
 [taxonomies]
     tag = "tags"
     category = "categories"
