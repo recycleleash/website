@@ -24,6 +24,10 @@ url = 'https://linktr.ee/recycleleash'
 title = "linktr.ee"
 
 [[params.menu.main]]
+url = 'https://photos.recycleleash.com/'
+title = "photos"
+
+[[params.menu.main]]
 url = 'https://coyoterockgym.ca/'
 title = "coyote"
 
@@ -100,6 +104,11 @@ body = "Leashes vary in price by size. Our most common sizes are 4FT ($15) and 6
 icon = "fa-envelope-o"
 title = "how to contact us"
 body = "Please send us an email at info@recycleleash.com or message on us on social media."
+
+[[params.three.feature]]
+icon = "fa-file-image-o"
+title = "photos"
+body = "Check out https://photos.recycleleash.com for some of our favourite photos!"
 
 [[params.three.feature]]
 icon = "fa-paw"
