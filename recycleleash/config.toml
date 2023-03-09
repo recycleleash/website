@@ -116,18 +116,18 @@ title = "social media"
 body = "Be sure to like and follow us on social media for the latest news and contests!"
 
 [params.cta]
-enable = false
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+enable = true
+title = "Like what you see?"
+body = "Click on the link to view some of our favorite photos that were shared with us!"
 
 [[params.cta.link]]
-href = "#"
-text = "Activate"
+href = "https://photos.recycleleash.com"
+text = "photos"
 special = true
 
 [[params.cta.link]]
 href = "#"
-text = "more"
+text = "back"
 special = false
 
 [params.contact]
