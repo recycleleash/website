@@ -113,17 +113,12 @@ body = "Be sure to like and follow us on social media for the latest news and co
 [params.cta]
 enable = true
 title = "Like what you see?"
-body = "Click on the link to view some of our favorite photos that were shared with us or go to the home page."
+body = "Click or press the button to view some of our favorite photos that were shared with us!"
 
 [[params.cta.link]]
 href = "https://photos.recycleleash.com"
 text = "photos"
 special = true
-
-[[params.cta.link]]
-href = "#"
-text = "home"
-special = false
 
 [params.contact]
 enable = false
