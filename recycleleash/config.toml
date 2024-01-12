@@ -87,7 +87,7 @@ body = 'Each leash is 100% hand-made. If you have any questions, unsure about le
 [[params.two.section]]
 img = "img/dog.jpg"
 title = 'show us your dog(s)'
-body = 'Nothing makes us happier then a good dog, especially when they are wearing one of our leashes! Send us your favourite photo for a chance to be featured on our social media.'
+body = 'Nothing makes us happier then a good dog, especially when they are wearing one of our leashes! Send us your favourite photo to be featured on our social media page!'
 
 [params.three]
 enable = true
@@ -104,6 +104,11 @@ body = "Leashes vary in price by size. Our most common sizes are 4FT ($15) and 6
 icon = "fa-envelope-o"
 title = "how to contact us"
 body = "Please send us an email at info@recycleleash.com or message on us on social media."
+
+[[params.three.feature]]
+icon = "fa-hand-o-right"
+title = "care"
+body = "Our products are handmade and should be handled with care. Damaged items will not be guaranteed for repair."
 
 [[params.three.feature]]
 icon = "fa-paw"
