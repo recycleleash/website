@@ -108,7 +108,7 @@ body = "Please send us an email at info@recycleleash.com or message on us on soc
 [[params.three.feature]]
 icon = "fa-hand-o-right"
 title = "care"
-body = "Our products are handmade and should be handled with care. Damaged items will not be guaranteed for repair."
+body = "Our products are handmade and should be handled with care. Items that appear to be damaged due to misuse will not be guaranteed for repair."
 
 [[params.three.feature]]
 icon = "fa-paw"
