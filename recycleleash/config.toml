@@ -98,7 +98,7 @@ body = '''
 [[params.three.feature]]
 icon = "fa-usd"
 title = "cost?"
-body = "Leashes vary in price by size. Our most common sizes are 4FT ($15) and 6FT ($20) - if you would like another length, please contact us!"
+body = "Leashes vary in price by size. Our most common sizes are 4FT ($20) and 6FT ($25) - if you would like another length, please contact us!"
 
 [[params.three.feature]]
 icon = "fa-envelope-o"
