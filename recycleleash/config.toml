@@ -7,7 +7,7 @@ theme = "spectral"
 
 [params]
 fancyTitle = "recycleleash" # title for frontpage, may include image
-copyright = "recycleleash"
+copyright = "recycleleash."
 description = 'leashes made from recycled materials'
 startbuttonText = "linktr.ee"
 startbuttonLink = "https://linktr.ee/recycleleash"
