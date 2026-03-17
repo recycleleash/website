@@ -1,0 +1,10 @@
+{
+  "globalHeaders": {
+    "Strict-Transport-Security": "max-age=31536000; includeSubDomains",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "Permissions-Policy": "geolocation=(), camera=(), microphone=(), payment=()",
+    "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-inline' cdnjs.cloudflare.com code.jquery.com; style-src 'self' 'unsafe-inline' cdnjs.cloudflare.com fonts.googleapis.com; font-src 'self' fonts.gstatic.com cdnjs.cloudflare.com; img-src 'self' data: *.instagram.com cdnjs.cloudflare.com; frame-src www.instagram.com linktr.ee; connect-src 'self'"
+  }
+}
