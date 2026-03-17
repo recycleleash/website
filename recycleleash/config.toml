@@ -36,7 +36,7 @@ url = 'https://en.bloc981.com/'
 title = "bloc 9.81"
 
 [[params.menu.main]]
-url = 'http://altitudegym.ca/en/'
+url = 'https://altitudegym.ca/en/'
 title = "altitude"
 
 [[params.menu.main]]
